@@ -1,6 +1,6 @@
 # 🌟 Namaste! 🙏
 
-👋 Welcome to my GitHub profile — I'm **Prince**, a passionate **Software Engineer** specializing in **Full Stack Development** with **React.js** on the frontend and **.NET** on the backend.
+👋 Welcome to my GitHub profile — I'm **Tarun**, a passionate **Software Engineer** specializing in **Full Stack Development** with **React.js** on the frontend and **.NET** on the backend.
 
 🚀 I love turning ideas into scalable and efficient web applications, and I'm always exploring new technologies to keep growing as a developer.
 
@@ -37,7 +37,7 @@ Feel free to reach out or explore my work here on GitHub.
 ---
 
 ⚡ **Fun Fact:**  
-I once turned a legacy UI into a clean, fast React dashboard over a weekend — powered by coffee and creativity! ☕🎨
+   I once turned a legacy UI into a clean, fast React dashboard over a weekend — powered by coffee and creativity! ☕🎨
 
 
 
