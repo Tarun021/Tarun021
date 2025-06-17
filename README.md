@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 🌟 Namaste! 🙏
 
 👋 Welcome to my GitHub profile — I'm **Prince**, a passionate **Software Engineer** specializing in **Full Stack Development** with **React.js** on the frontend and **.NET** on the backend.
