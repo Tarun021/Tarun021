@@ -1,5 +1,45 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 🌟 Namaste! 🙏
+
+👋 Welcome to my GitHub profile — I'm **Prince**, a passionate **Software Engineer** specializing in **Full Stack Development** with **React.js** on the frontend and **.NET** on the backend.
+
+🚀 I love turning ideas into scalable and efficient web applications, and I'm always exploring new technologies to keep growing as a developer.
+
+💡 Feel free to explore my repositories, check out my projects, or connect with me — collaboration and learning go hand-in-hand here!
+
+---
+
+## 🛠️ Tech I Work With
+
+### 🔽 By Priority:
+
+- **.NET Core** 🧩  
+- **C#** 🔷  
+- **React.js** ⚛️  
+- **SQL Server** 🗄️  
+- **JavaScript** 🟨  
+- **REST APIs** 🌐  
+- **Microsoft Azure** ☁️ *(Currently Learning)*
+
+---
+
+## 📫 Let’s Connect!
+
+Let's connect, learn, and build something awesome together!  
+Feel free to reach out or explore my work here on GitHub.
+
+<!-- Add your contact links here if desired -->
+<!--
+📧 Email: your.email@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🌐 [Portfolio](https://your-website.com)
+-->
+
+---
+
+⚡ **Fun Fact:**  
+I once turned a legacy UI into a clean, fast React dashboard over a weekend — powered by coffee and creativity! ☕🎨
+
 
 
 # 💻 Tech Stack:
