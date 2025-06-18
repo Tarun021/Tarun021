@@ -28,12 +28,10 @@ Let's connect, learn, and build something awesome together!
 Feel free to reach out or explore my work here on GitHub.
 
 <!-- Add your contact links here if desired -->
-<!--
-📧 Email: your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🌐 [Portfolio](https://your-website.com)
--->
+📧 Email: tarunverma1807@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tarun-verma-9ba462229)  
 
+<!--🌐 [Portfolio](https://your-website.com) -->
 ---
 
 ⚡ **Fun Fact:**  
